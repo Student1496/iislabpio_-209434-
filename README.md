@@ -10,3 +10,12 @@ Systemy kontroli wersji (ang. version/revision control system) – oprogramowani
 
 <a href="http://pl.wikipedia.org/wiki/System_kontroli_wersji">Wikipedia</a>
 
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">IISlabPIO</a>
+    </div>
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="#section1">Systemy kontroli wersji</a></li>
+            <li><a href="#section2">Rozproszony system kontroli wersji</a></li>
+        </ul>
+    </div>
