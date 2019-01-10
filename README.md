@@ -19,3 +19,4 @@ Systemy kontroli wersji (ang. version/revision control system) – oprogramowani
             <li><a href="#section2">Rozproszony system kontroli wersji</a></li>
         </ul>
     </div>
+Opracowane na zajęciach "Podstawy systemu Git" w ramach laboratorium z Podstaw Inżynierii Oprogramowania w <a href="http://www.iis.p.lodz.pl/">Instytucie Informatyki Stosowanej PŁ</a>
